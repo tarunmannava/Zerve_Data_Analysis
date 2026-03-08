@@ -324,4 +324,4 @@ Across all five methods, a coherent and mutually-reinforcing picture emerges. Th
 
 ---
 
-*Report generated from Zerve Canvas multi-method behavioral analysis pipeline. All statistical tests conducted with α = 0.05 significance threshold. Visualizations available in the canvas as named figure variables.*
+
